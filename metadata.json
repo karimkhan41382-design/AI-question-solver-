@@ -1,0 +1,5 @@
+{
+  "name": "AI Question Solver",
+  "description": "An intelligent application that leverages the Gemini 2.5 Flash model to provide insightful and accurate answers to your questions.",
+  "requestFramePermissions": []
+}
